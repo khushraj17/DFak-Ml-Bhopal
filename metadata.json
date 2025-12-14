@@ -1,0 +1,5 @@
+{
+  "name": "Deepfake Defender",
+  "description": "A real-time media forensics tool using Gemini 2.5 Flash to detect synthesized media artifacts like irregular blinking, lip-sync mismatches, and audio spectral anomalies.",
+  "requestFramePermissions": []
+}
